@@ -1,0 +1,1 @@
+go run myexample.go -username=abcd@gmail.com -password=password
